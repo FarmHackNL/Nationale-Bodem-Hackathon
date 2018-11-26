@@ -19,6 +19,12 @@
 
 ## Data
 
+### Boerenverstand
+
+Adviesburo [Boerenverstand](http://www.boerenverstand.nl/boerenverstand/over-ons/) maakt voor deze hackathon een aantal Eurofins  [BemestingsWijzers](http://eurofins-agro.com/nl-nl/product/bemesting/bemestingswijzer-grasland) en bodemsensor data beschikbaar.
+
+BemestijnsWijzer "analyseert alle belangrijke elementen van grasland, nodig voor de grasproductie en kwaliteit van het ruwvoer. Alle bepalingen samen geven het inzicht dat nodig is om een uitgekiend bemestingsadvies te kunnen geven. BemestingsWijzer analyseert de verschillende onderdelen van de bodem: chemisch, fysisch, biologisch [...]". Zie http://eurofins-agro.com/nl-nl/product/bemesting/bemestingswijzer-grasland/analyse voor meer informatie. 
+
 ### WUR 
 
 - [AgroDataCube](http://agrodatacube.wur.nl) (RESTful API) - A Big Open Data collection for Agri-Food Applications. De Cube bevat o.a. de volgende datasets:
