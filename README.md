@@ -6,8 +6,6 @@
 
 **Locatie**: The Spot, Orion, Wageningen University (Bronland 103 6708 WH Wageningen)
 
-**Aanmelden**: https://www.farmhack.nl/aanmelden/?challengeID=nationale-bodemhack
-
 **Forum:** https://forum.farmhack.nl/t/over-de-nationale-bodem-hackathon/134
 
 ## Inleiding
