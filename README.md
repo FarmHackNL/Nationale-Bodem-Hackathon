@@ -40,6 +40,16 @@ De [AgroDataCube](http://agrodatacube.wur.nl) "is A Big Open Data collection for
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
   
+ ### Dairy Research Farm De Marke
+
+Tijdens de hackathon zal data beschikbaar zijn van [De Marke](https://www.wur.nl/en/location/De-Marke-1.htm) over 
+
+- [Weersgegevens 1994 - 2015](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/De%20Marke/weersgegevens) (CSV)
+- N balans per perceel (CSV)
+- P balans per perceel (CSV)
+- Bodemanalyses (CSV)
+- Beregeningsdata - gegevens over de beregeningsregime van de percelen voor de jaren 1994 - 2017 
+  
 # FarmHack 
 
 [FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer.
