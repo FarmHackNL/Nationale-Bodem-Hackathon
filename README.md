@@ -26,12 +26,12 @@ BemestijnsWijzer "analyseert alle belangrijke elementen van grasland, nodig voor
 ### WUR 
 
 De [AgroDataCube](http://agrodatacube.wur.nl) "is A Big Open Data collection for Agri-Food Applications". De Cube bevat o.a. de volgende datasets die via een RESTful API te op vragen zijn:
-  - Gewasregistratie van Nederland, 2012 – 2017.
-  - Dagelijks weer van 50 KNMI meteostations, 01-01-1950 – 31-01-2018.
+  - Gewasregistratie van Nederland, 2012 – 2018.
+  - Dagelijks weer van 50 KNMI meteostations, 01-01-1950 – 28-11-2018.
   - AHN2 data voor Nederland.
   - Per gewasperceel opvraagbaar:
     - AHN2 statistische informatie: count, sum, mean, stddev, min, max.
-    - NDVI tijdserie (gemiddelde NDVI waarde per perceel, ongeveer 50 waarden per jaar), 2013 – 2017.
+    - NDVI tijdserie (gemiddelde en standraard afwijking van de NDVI waarde per perceel, ongeveer 50 waarden per jaar), 2013 – 2018.
   - Bodemtypes 1:50.000, bepaald uit intersect van perceel met de Bodemkaart 1:50.000 uit 2014.
   - Info over de 50 KNMI meteostations, incl. locatie.
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
