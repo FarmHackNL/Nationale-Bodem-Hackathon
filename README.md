@@ -15,13 +15,7 @@
 
 **Deze nationale BodemHack is bedoeld om met de ingrediënten bodem, data en IT tot integrale oplossingen en slimme samenwerking te komen.** Het doel is een integraal instrument ontwikkelen waarmee we de kwaliteit van agrarische bodem- en watersystemen van Nederland in kaart kunnen brengen en tevens de kwaliteit van het beheer kunnen monitoren.  In de ideale situatie is dit instrument betaalbaar, objectief en stimulerend voor degenen die het bodembeheer doen.
 
-## Data
-
-### Boerenverstand
-
-Adviesburo [Boerenverstand](http://www.boerenverstand.nl/boerenverstand/over-ons/) maakt voor deze hackathon een aantal Eurofins  [BemestingsWijzers](http://eurofins-agro.com/nl-nl/product/bemesting/bemestingswijzer-grasland) en bodemsensor data beschikbaar.
-
-BemestijnsWijzer "analyseert alle belangrijke elementen van grasland, nodig voor de grasproductie en kwaliteit van het ruwvoer. Alle bepalingen samen geven het inzicht dat nodig is om een uitgekiend bemestingsadvies te kunnen geven. BemestingsWijzer analyseert de verschillende onderdelen van de bodem: chemisch, fysisch, biologisch [...]". Zie http://eurofins-agro.com/nl-nl/product/bemesting/bemestingswijzer-grasland/analyse voor meer informatie. 
+## Data 
 
 ### WUR 
 
@@ -37,6 +31,7 @@ De [AgroDataCube](http://agrodatacube.wur.nl) "is A Big Open Data collection for
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
+  - BOFEK (2012) - De informatie in het databestand kan dienen als invoer bij modelberekeningen van water- en stoffentransport in de bodem. Toepassingsschaal: 1 : 50 000 – 1 : 1 000 000
   
  ### Dairy Research Farm De Marke
 
